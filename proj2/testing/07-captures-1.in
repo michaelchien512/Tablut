@@ -1,0 +1,27 @@
+#* java -ea tablut.Main
+# Check captures with and of king away from throne.
+manual white
+i6-f
+dump
+f5-2
+dump
+h5-3
+dump
+e7-f
+dump
+h3-f
+dump
+e5-f
+dump
+f3-g
+dump
+g5-6
+dump
+f1-h
+dump
+f5-h
+dump
+g3-5
+#*win+
+dump
+quit

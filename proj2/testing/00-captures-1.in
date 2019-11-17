@@ -1,0 +1,32 @@
+#* java -ea tablut.Main
+# Check captures of king adjacent to throne.
+manual white
+
+i6-f
+dump
+e6-c
+dump
+d9-6
+dump
+e5-6
+dump
+f9-7
+dump
+e4-d
+dump
+e9-d
+dump
+d4-3
+dump
+d9-7
+dump
+c6-7
+dump
+e8-7
+dump
+c5-6
+dump
+d7-6
+#*win+
+dump
+quit

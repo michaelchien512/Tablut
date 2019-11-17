@@ -1,0 +1,109 @@
+#* java -ea tablut.Main
+manual white
+seed 199485
+f1-3
+d5-6
+d1-5
+e6-h
+i4-f
+e4-d
+b5-d
+d6-c
+f9-6
+c6-d
+a5-d
+d6-c
+a4-5
+c6-d
+a5-d
+d6-c
+d9-6
+e7-6
+a6-5
+e6-d
+a5-d
+c6-5
+e1-b
+e3-b
+b1-a
+b3-a
+a1-b
+c5-b
+b1-c
+e5-c
+limit 20
+auto white
+auto black
+# Should be a forced win for white.
+#*move/win+
+
+manual white
+manual black
+new
+i4-h
+e6-f
+a6-e
+f5-3
+i6-g
+d5-8
+d1-5
+e4-c
+f9-5
+e5-4
+d5-4
+c4-b
+d4-c
+d8-7
+h4-f
+e4-5
+b5-d
+e5-4
+c4-d
+f3-g
+a5-c
+g3-h
+e8-7
+d7-c
+e1-d
+h3-4
+f1-3
+h4-g
+f3-4
+g4-h
+d1-f
+h4-i
+f1-2
+i4-3
+c5-6
+c7-8
+h5-6
+c8-9
+h6-3
+i3-2
+e7-b
+c9-8
+d9-8
+c8-a
+i5-4
+i2-1
+f2-1
+i1-2
+f1-g
+i2-1
+d8-c
+i1-2
+i4-3
+i2-1
+c6-a
+a8-9
+e9-d
+i1-2
+g1-i
+a9-8
+d9-b
+limit 35
+# Should be a forced win for Black.
+auto black
+auto white
+#*move/win+
+quit
