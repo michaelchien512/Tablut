@@ -17,7 +17,7 @@ The throne occupied by the King is also hostile to white pieces when three of th
 
 ![w5GSBMfEh1](https://user-images.githubusercontent.com/47373165/69006659-02765b00-08e7-11ea-9a53-80aa7394b713.gif)
 
-* Ex: The white piece captured on **"g-5"** is the result of **"i4-g", "f5-2", "i6-g**.*
+*Ex: The white piece captured on **"g-5"** is the result of **"i4-g", "f5-2", "i6-g**.*
 
 The King is captured like any other piece except when he is on the throne or on one of the four squares directly orthogonal to the throne
 in which he must be surrouded by four hostile squares. The game can also be won if a board position is repeated or a side has no legal moves left to play. 
