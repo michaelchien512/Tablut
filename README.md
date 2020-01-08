@@ -1,7 +1,8 @@
 # Tablut
 Tablut is one of the family of tafl (or hnefatafl) games: Nordic and Celtic strategy games played on checkered boards between two asymmetric armies. The detailed rules of these games are generally disputed, 
 therefore this version of Tablut may have rules you are unfamiliar with. This version of Tablut comes with an automated AI implemented using
-a game tree with the miniMax algorithm with alpha-beta pruning and is capable of finding a forced win. (Can still be improved)
+a game tree with miniMax algorithm and alpha-beta pruning and is capable of finding a forced win. (Can still be improved)
+
 ## Rules
 Tablut is played on a 9x9 checkerboard starting with 9 white pieces and 16 black pieces.The middle square is called the throne where the king
 resides. The other white pieces are known as *Swedes* and are the King's guards. The white side wins if the King reaches any of the edges of the board.
